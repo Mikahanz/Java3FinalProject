@@ -1,0 +1,10 @@
+com\mikabank\account\configuration\WebMvcConfig.class
+com\mikabank\account\controller\CustomerController.class
+com\mikabank\account\configuration\DatabaseConfiguration.class
+com\mikabank\account\dao\HibernateCustomerDaoImpl.class
+com\mikabank\account\model\Address.class
+com\mikabank\account\dao\CustomerDao.class
+com\mikabank\account\service\CustomerService.class
+com\mikabank\account\configuration\WebAppInitializer.class
+com\mikabank\account\model\Customer.class
+com\mikabank\account\service\CustomerServiceImpl.class
